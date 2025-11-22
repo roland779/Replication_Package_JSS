@@ -2,7 +2,7 @@
 
 **Manuscript ID:** JSSOFTWARE-D-25-00781  
 **Title:** *Inter-Organizational Collaborations in Open-Source Software Ecosystems*  
-**Author:** Roland Robert Schreiber  
+**Author:** Roland Robert Schreiber, Thomas Wieland
 
 ---
 
