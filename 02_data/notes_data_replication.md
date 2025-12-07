@@ -72,7 +72,7 @@ Contains the **raw Git-based node and edge exports** for each ecosystem covering
 
 ---
 
-## Subfolder 02_processed_networks
+## Subfolder 02_processed_logs
 
 Contains **aggregated and merged network datasets** derived from the raw exports.  
 These files are used for network metric computation, figure generation, and cross-case comparisons.
